@@ -6,11 +6,9 @@
 #define PROJECT_1_HELLO_H
 
 
-
 class hello {
 
 };
-
 
 
 #endif //PROJECT_1_HELLO_H
