@@ -4,8 +4,8 @@
 #include<stdio.h>
 
 int main(){
-    char arr[5] = { 0 };
-    scanf("%s", arr);
-    printf("%s\n",arr);
+    //char arr[5] = { 0 };
+    //scanf("%s", arr);
+    printf("%c\n",54);
     return 0;
 }
